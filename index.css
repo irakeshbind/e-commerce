@@ -140,13 +140,26 @@ cursor: pointer;
 
     justify-content: center;
 }
-.blogCard{
+/* .blogCard{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     margin-inline: 22px;
     width: 500px;
-}
+} */
 .blogCard img{
     width: 44%;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.con-1{
+    display: flex;
+    align-items: center;
 }
 
 
